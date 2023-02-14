@@ -1,3 +1,1 @@
-0-current_working_directory
-1-listit
-README.md
+Write a script that prints “Hello, World”, followed by a new line to the standard output
